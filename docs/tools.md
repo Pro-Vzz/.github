@@ -1,8 +1,8 @@
 # 开源工具列表
 
-这里展示和 OpenHUTB 相关的开源项目。
+这里展示和 OpenHUTB 相关的开源项目
 
-入选标准（非硬性）：最近一年有在提交修改、星星数大于100。
+入选标准（非硬性）：最近一年有在提交修改、星星数大于100
 
 ## 工具
 * [git](https://openhutb.github.io/.github/) - git教程
@@ -13,11 +13,11 @@
 
 * [vlc](https://github.com/videolan/vlc) - 视频播放
 
-* [obs-studio](https://github.com/obsproject/obs-studio) - 直播、屏幕录制。
+* [obs-studio](https://github.com/obsproject/obs-studio) - 直播、屏幕录制
 
 * [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - PDF 阅读器
 
-* [Okular](https://github.com/KDE/okular) - 可以查看和注释各种格式的文档，包括 PDF、Postscript、漫画书以及多种图像格式。它支持原生 PDF 注释功能。
+* [Okular](https://github.com/KDE/okular) - 可以查看和注释各种格式的文档，包括 PDF、Postscript、漫画书以及多种图像格式。它支持原生 PDF 注释功能
 
 * [One-click-cleaning-of-C-drive](https://github.com/JIEKE66633/One-click-cleaning-of-C-drive) - 清理C盘残留和垃圾
 
@@ -28,7 +28,7 @@
 
 ## 办公
 
-* [rustdesk](https://github.com/rustdesk/rustdesk) - 远程桌面应用程序，专为自托管设计，作为 TeamViewer 的替代方案。
+* [rustdesk](https://github.com/rustdesk/rustdesk) - 远程桌面应用程序，专为自托管设计，作为 TeamViewer 的替代方案
 
 * [tailscale](https://github.com/tailscale/tailscale) - 使用 WireGuard 和双重身份验证最简单、最安全的方式
 
@@ -38,7 +38,7 @@
 
 * [md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - 一键排版发布到微信公众号
 
-* [pywechat](https://github.com/Hello-Mr-Crab/pywechat) - windows桌面微信自动化
+* [pywechat](https://github.com/Hello-Mr-Crab/pywechat) - windows 桌面微信自动化
 
 
 
@@ -65,7 +65,7 @@
 
 * [scrcpy](https://github.com/Genymobile/scrcpy) - 显示并控制安卓设备
 
-* [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - AI证件照制作算法
+* [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - AI 证件照制作算法
 
 * [readest](https://github.com/readest/readest) - 电子书阅读器
 
@@ -73,7 +73,7 @@
 
 * [ssr](https://github.com/MaartenBaert/ssr) - Linux 上的屏幕录制
 
-* [PDF4QT](https://github.com/JakubMelka/PDF4QT) - PDF编辑器
+* [PDF4QT](https://github.com/JakubMelka/PDF4QT) - PDF 编辑器
 
 * [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - PDF 应用程序，可让您在任何设备和任何地方编辑 PDF 文件
 
@@ -89,7 +89,7 @@
 
 * [FileCentipede](https://github.com/filecxx/FileCentipede) - 网络上传/下载管理器
 
-* [FileConverter](https://github.com/Tichau/FileConverter) - 可通过Windows资源管理器的上下文菜单来转换和压缩文件
+* [FileConverter](https://github.com/Tichau/FileConverter) - 可通过 Windows 资源管理器的上下文菜单来转换和压缩文件
 
 * [windows](https://github.com/dockur/windows) - Docker 容器中的 Windows
 
