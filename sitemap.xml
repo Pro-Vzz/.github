@@ -36,6 +36,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://openhutb.github.io/.github/introduction/</loc>
+         <lastmod>2026-10-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://openhutb.github.io/.github/markdown2anything/</loc>
          <lastmod>2026-10-28</lastmod>
          <changefreq>daily</changefreq>
@@ -82,11 +87,6 @@
     </url>
     <url>
          <loc>https://openhutb.github.io/.github/wsl/</loc>
-         <lastmod>2026-10-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://openhutb.github.io/.github/adv/find_author/</loc>
          <lastmod>2026-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
